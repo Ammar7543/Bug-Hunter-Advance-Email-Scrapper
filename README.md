@@ -15,9 +15,9 @@
 
 > A Chrome extension built for security researchers and bug bounty hunters to automatically discover and harvest security contact emails from target domains, turning hours of manual recon into minutes.
 
-### Demo
+### Repo
 
-[https://github.com/Ammar7543/Security_Heydeer.git]
+[https://github.com/Ammar7543/Bug-Hunter-Advance-Email-Scrapper.git]
 
 ### Screenshot
 
