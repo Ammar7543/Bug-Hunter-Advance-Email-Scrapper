@@ -17,7 +17,7 @@
 
 ### Demo
 
-[https://github.com/Ammar7543/Security_Heydeer.git](https://github.com/Ammar7543/Security_Heydeer.git)
+[https://github.com/Ammar7543/Security_Heydeer.git]
 
 ### Screenshot
 
