@@ -17,7 +17,7 @@
 
 ### Repo
 
-[https://github.com/Ammar7543/Bug-Hunter-Advance-Email-Scrapper.git]
+https://github.com/Ammar7543/Bug-Hunter-Advance-Email-Scrapper.git
 
 ### Screenshot
 
@@ -41,12 +41,16 @@
 
 ---
 
-## Install
+##  Direct Download
+
+
+```sh
+https://github.com/Ammar7543/Bug-Hunter-Advance-Email-Scrapper/releases/download/New_Release_5.1.2/BountyHunter-v5.1.2.zip```
 
 ### Option 1: Clone via Git
 
 ```sh
-git clone https://github.com/Ammar7543/Security_Heydeer.git
+git clone https://github.com/Ammar7543/Bug-Hunter-Advance-Email-Scrapper.git
 ```
 
 ### Option 2: Load as a Chrome Extension
