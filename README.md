@@ -22,7 +22,7 @@
 ### Screenshot
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="Bug Hunter extension interface" width="500"/>
+  <img src="assets/dbfc2dd1-d8bf-4b5f-89a9-9a21b4e087b1.png" alt="Bug Hunter extension interface" width="500"/>
 </p>
 
 ---
